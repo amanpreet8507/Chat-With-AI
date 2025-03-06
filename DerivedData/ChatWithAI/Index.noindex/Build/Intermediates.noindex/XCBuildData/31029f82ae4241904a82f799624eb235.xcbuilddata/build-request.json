@@ -1,0 +1,48 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c3bc22562bb45ffd6f049309b06f1d7af48568a3234e08185d53c5fb1c3f71ac"
+    }
+  ],
+  "containerPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Products",
+      "pchPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

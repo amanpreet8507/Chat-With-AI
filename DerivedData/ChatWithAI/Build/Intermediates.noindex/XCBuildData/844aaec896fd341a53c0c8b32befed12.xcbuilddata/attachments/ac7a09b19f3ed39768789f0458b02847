@@ -1,0 +1,48 @@
+{
+  "" : {
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master.dia",
+    "emit-module-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master.swiftdeps"
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/APIKey.swift" : {
+    "const-values" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.swiftconstvalues",
+    "dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.d",
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.dia",
+    "index-unit-output-path" : "/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.o",
+    "llvm-bc" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.bc",
+    "object" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.o",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey.swiftdeps",
+    "swiftmodule" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/APIKey~partial.swiftmodule"
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/ChatWithAIApp.swift" : {
+    "const-values" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.swiftconstvalues",
+    "dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.d",
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.dia",
+    "index-unit-output-path" : "/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.o",
+    "llvm-bc" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.bc",
+    "object" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.o",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp.swiftdeps",
+    "swiftmodule" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAIApp~partial.swiftmodule"
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/ContentView.swift" : {
+    "const-values" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

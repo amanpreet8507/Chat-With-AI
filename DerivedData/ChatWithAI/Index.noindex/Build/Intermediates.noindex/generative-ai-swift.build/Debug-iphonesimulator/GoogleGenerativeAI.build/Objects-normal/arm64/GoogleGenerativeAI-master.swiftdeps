@@ -1,0 +1,41 @@
+version: "Apple Swift version 6.0.3 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)"
+options: "678fbafda7073d8efd51d1793b1c0478b02862d312ece7f612f42230dcbe6c66"
+build_start_time: [1741068680, 446718000]
+build_end_time: [1741068680, 659263000]
+inputs:
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/Chat.swift"
+  : [1741068504, 703615913]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/CountTokensRequest.swift"
+  : [1741068504, 703730246]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/Errors.swift"
+  : [1741068504, 703865414]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/FunctionCalling.swift"
+  : [1741068504, 704090790]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerateContentError.swift"
+  : [1741068504, 704753043]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerateContentRequest.swift"
+  : [1741068504, 704876210]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerateContentResponse.swift"
+  : [1741068504, 705106586]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerationConfig.swift"
+  : [1741068504, 705211920]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerativeAIRequest.swift"
+  : [1741068504, 705292295]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerativeAIService.swift"
+  : [1741068504, 705404462]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerativeAISwift.swift"
+  : [1741068504, 705492213]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/GenerativeModel.swift"
+  : [1741068504, 705581630]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/JSONValue.swift"
+  : [1741068504, 705732422]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/Logging.swift"
+  : [1741068504, 705822214]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/ModelContent.swift"
+  : [1741068504, 705932715]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/PartsRepresentable+Image.swift"
+  : [1741068504, 706060632]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/PartsRepresentable.swift"
+  : [1741068504, 706151966]
+  ? "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/SourcePackages/checkouts/generative-ai-swift/Sources/GoogleAI/Safety.swift"
+  : [1741068504, 706264842]

@@ -1,0 +1,21 @@
+{
+  "" : {
+    "dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master.d",
+    "diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master.dia",
+    "emit-module-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master-emit-module.dia",
+    "swift-dependencies" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/Objects-normal/arm64/ChatWithAI-master.swiftdeps"
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/APIKey.swift" : {
+
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/ChatWithAIApp.swift" : {
+
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI/ContentView.swift" : {
+
+  },
+  "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/Build/Intermediates.noindex/ChatWithAI.build/Debug-iphonesimulator/ChatWithAI.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}
