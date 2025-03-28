@@ -7,31 +7,31 @@
         "key": "How can I help you today?",
         "location": {
           "startingColumn": 47,
-          "startingLine": 20
+          "startingLine": 14
         }
       },
       {
         "comment": "",
         "key": "Welcome to Gemini AI",
         "location": {
-          "startingColumn": 58,
-          "startingLine": 25
+          "startingColumn": 18,
+          "startingLine": 19
         }
       },
       {
         "comment": "",
         "key": "Ask anything...",
         "location": {
-          "startingColumn": 63,
-          "startingLine": 43
+          "startingColumn": 23,
+          "startingLine": 37
         }
       },
       {
         "comment": "",
         "key": "",
         "location": {
-          "startingColumn": 60,
-          "startingLine": 60
+          "startingColumn": 20,
+          "startingLine": 54
         }
       },
       {
@@ -39,7 +39,7 @@
         "key": "Something went wrong! \n%@",
         "location": {
           "startingColumn": 28,
-          "startingLine": 71
+          "startingLine": 65
         }
       }
     ]

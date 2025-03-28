@@ -67,10 +67,10 @@
 			<key>uniqueIdentifier</key>
 			<string>41D25ED6-1FB6-4FB1-8488-542B0CA3AA6A</string>
 		</dict>
-		<key>4E91BC38-EC75-41E3-9CF7-A8CD7E088542</key>
+		<key>72358FB8-24F1-4B54-BAB9-EBB3ABBB5A4D</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>185B5D08-8DBA-4075-9F85-843141731D76</string>
+			<string>24FBB5CA-56DE-48A8-9B7A-39FA72A8163D</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -91,7 +91,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-ChatWithAI-2025.03.03_22-15-21--0800.xcresult</string>
+			<string>Run-ChatWithAI-2025.03.27_17-01-41--0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -120,18 +120,18 @@
 			<key>signature</key>
 			<string>Run ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762761721.91190004</real>
+			<real>764812901.78298199</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>4E91BC38-EC75-41E3-9CF7-A8CD7E088542</string>
+			<string>72358FB8-24F1-4B54-BAB9-EBB3ABBB5A4D</string>
 		</dict>
-		<key>54C979C5-4188-4C7B-B3B3-E4C65209042A</key>
+		<key>73E97D16-E569-4750-864F-270CC30435CC</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
-			<string>66D699D7-3E0A-4FB5-BC3A-9CB39EDE2126</string>
+			<string>DE5E757C-B2DB-4A16-8A0C-17FEBBCD8818</string>
 			<key>auxiliaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
@@ -152,7 +152,7 @@
 			<key>domainType</key>
 			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
 			<key>fileName</key>
-			<string>Run-ChatWithAI-2025.03.04_09-45-01--0800.xcresult</string>
+			<string>Run-ChatWithAI-2025.03.27_17-01-10--0700.xcresult</string>
 			<key>hasAuxiliaryLog</key>
 			<true/>
 			<key>hasConsoleLog</key>
@@ -181,13 +181,135 @@
 			<key>signature</key>
 			<string>Run ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762803101.19786799</real>
+			<real>764812870.57260203</real>
 			<key>timeStoppedRecording</key>
 			<real>0.0</real>
 			<key>title</key>
 			<string>Run ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>54C979C5-4188-4C7B-B3B3-E4C65209042A</string>
+			<string>73E97D16-E569-4750-864F-270CC30435CC</string>
+		</dict>
+		<key>D575D23D-B597-4C9F-B8A7-653453434C3D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7DF85DB8-C173-4BE1-B704-FAEB28BE1149</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ChatWithAI-2025.03.27_16-59-37--0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChatWithAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChatWithAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ChatWithAI</string>
+			<key>timeStartedRecording</key>
+			<real>764812777.14698005</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ChatWithAI</string>
+			<key>uniqueIdentifier</key>
+			<string>D575D23D-B597-4C9F-B8A7-653453434C3D</string>
+		</dict>
+		<key>F65C99C8-8440-4781-99A5-72E57E6A0132</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>DE6C78E7-5939-43E7-838F-9C0369302649</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-ChatWithAI-2025.03.27_17-09-11--0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChatWithAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChatWithAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run ChatWithAI</string>
+			<key>timeStartedRecording</key>
+			<real>764813351.99440205</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run ChatWithAI</string>
+			<key>uniqueIdentifier</key>
+			<string>F65C99C8-8440-4781-99A5-72E57E6A0132</string>
 		</dict>
 	</dict>
 </dict>

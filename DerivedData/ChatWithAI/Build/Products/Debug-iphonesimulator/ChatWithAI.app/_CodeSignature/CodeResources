@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.gitignore</key>
+		<data>
+		oR/maUE9J1MRx/EFt5byzS77nwo=
+		</data>
 		<key>ChatWithAI.debug.dylib</key>
 		<data>
 		tBDh4Wf3e+t1qTJCpNF3jqnpWTI=
@@ -27,6 +31,13 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>.gitignore</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			50E6UXnyC7j5D0ZI1u8t4EvAP4Fp8W8xRG8bJ95QN2s=
+			</data>
+		</dict>
 		<key>ChatWithAI.debug.dylib</key>
 		<dict>
 			<key>hash2</key>

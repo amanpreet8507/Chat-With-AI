@@ -1,25 +1,32 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CA204B252B97CBBCE3A0A9E87D61C6A14B28D276",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CEF67D76F8E330E1303AD46D2D9D750E53465394",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
     "CA204B252B97CBBCE3A0A9E87D61C6A14B28D276" : 0,
+    "CEF67D76F8E330E1303AD46D2D9D750E53465394" : 0,
     "D6CA1DAB7F830FAEC7B4CC415241B8F380CBEC90" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "804ACE58-3C54-4FC6-9ECF-B596B7AD63BF",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "CA204B252B97CBBCE3A0A9E87D61C6A14B28D276" : "iOS%20Mobile%20Application%20Programming\/",
-    "D6CA1DAB7F830FAEC7B4CC415241B8F380CBEC90" : "iOS%20Mobile%20Application%20Programming\/ChatWithAI\/DerivedData\/ChatWithAI\/SourcePackages\/checkouts\/generative-ai-swift\/"
+    "CA204B252B97CBBCE3A0A9E87D61C6A14B28D276" : "",
+    "CEF67D76F8E330E1303AD46D2D9D750E53465394" : "ChatWithAI\/",
+    "D6CA1DAB7F830FAEC7B4CC415241B8F380CBEC90" : "ChatWithAI\/DerivedData\/ChatWithAI\/SourcePackages\/checkouts\/generative-ai-swift\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "ChatWithAI",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
-  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChatWithAI\/ChatWithAI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ChatWithAI.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:amanpreet8507\/iOS-Mobile-Application-Programming.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA204B252B97CBBCE3A0A9E87D61C6A14B28D276"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:amanpreet8507\/Chat-With-AI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEF67D76F8E330E1303AD46D2D9D750E53465394"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/amanpreeetsandhu\/Desktop\/iOS%20Mobile%20Application%20Programming\/ChatWithAI\/DerivedData\/ChatWithAI\/SourcePackages\/repositories\/generative-ai-swift-479a0be6",

@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>66D699D7-3E0A-4FB5-BC3A-9CB39EDE2126</key>
+		<key>24FBB5CA-56DE-48A8-9B7A-39FA72A8163D</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>66D699D7-3E0A-4FB5-BC3A-9CB39EDE2126.xcactivitylog</string>
+			<string>24FBB5CA-56DE-48A8-9B7A-39FA72A8163D.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,15 +40,15 @@
 			<key>signature</key>
 			<string>Build ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762803101.20252705</real>
+			<real>764812901.78363597</real>
 			<key>timeStoppedRecording</key>
-			<real>762803102.01653099</real>
+			<real>764812902.86554396</real>
 			<key>title</key>
 			<string>Build ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>66D699D7-3E0A-4FB5-BC3A-9CB39EDE2126</string>
+			<string>24FBB5CA-56DE-48A8-9B7A-39FA72A8163D</string>
 		</dict>
-		<key>919B7201-37B1-49BF-B885-F856CAB9CB76</key>
+		<key>7DF85DB8-C173-4BE1-B704-FAEB28BE1149</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -57,7 +57,49 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>919B7201-37B1-49BF-B885-F856CAB9CB76.xcactivitylog</string>
+			<string>7DF85DB8-C173-4BE1-B704-FAEB28BE1149.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ChatWithAI project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ChatWithAI</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ChatWithAI</string>
+			<key>timeStartedRecording</key>
+			<real>764812777.14731705</real>
+			<key>timeStoppedRecording</key>
+			<real>764812777.27877402</real>
+			<key>title</key>
+			<string>Build ChatWithAI</string>
+			<key>uniqueIdentifier</key>
+			<string>7DF85DB8-C173-4BE1-B704-FAEB28BE1149</string>
+		</dict>
+		<key>AEAE7B8A-28D4-41C7-ACF3-EA181EDBC6BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AEAE7B8A-28D4-41C7-ACF3-EA181EDBC6BF.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -80,17 +122,17 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762761731.02973104</real>
+			<real>764813461.38586295</real>
 			<key>timeStoppedRecording</key>
-			<real>762761731.39464796</real>
+			<real>764813462.04610801</real>
 			<key>title</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>919B7201-37B1-49BF-B885-F856CAB9CB76</string>
+			<string>AEAE7B8A-28D4-41C7-ACF3-EA181EDBC6BF</string>
 		</dict>
-		<key>CCC69ED1-D861-46B4-8FDA-D230D49243E5</key>
+		<key>DE5E757C-B2DB-4A16-8A0C-17FEBBCD8818</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,7 +141,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CCC69ED1-D861-46B4-8FDA-D230D49243E5.xcactivitylog</string>
+			<string>DE5E757C-B2DB-4A16-8A0C-17FEBBCD8818.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -122,17 +164,17 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762801465.37344897</real>
+			<real>764812870.57308996</real>
 			<key>timeStoppedRecording</key>
-			<real>762801466.45915794</real>
+			<real>764812871.70495796</real>
 			<key>title</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>CCC69ED1-D861-46B4-8FDA-D230D49243E5</string>
+			<string>DE5E757C-B2DB-4A16-8A0C-17FEBBCD8818</string>
 		</dict>
-		<key>EE400ADE-D1DB-4BDD-987F-A71DF70B0B35</key>
+		<key>DE6C78E7-5939-43E7-838F-9C0369302649</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -141,7 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>EE400ADE-D1DB-4BDD-987F-A71DF70B0B35.xcactivitylog</string>
+			<string>DE6C78E7-5939-43E7-838F-9C0369302649.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -164,15 +206,15 @@
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>timeStartedRecording</key>
-			<real>762804075.69377995</real>
+			<real>764813351.99487805</real>
 			<key>timeStoppedRecording</key>
-			<real>762804076.87416101</real>
+			<real>764813352.38834298</real>
 			<key>title</key>
-			<string>Build (Automatic) ChatWithAI</string>
+			<string>Build ChatWithAI</string>
 			<key>uniqueIdentifier</key>
-			<string>EE400ADE-D1DB-4BDD-987F-A71DF70B0B35</string>
+			<string>DE6C78E7-5939-43E7-838F-9C0369302649</string>
 		</dict>
 		<key>F9C70B83-FC18-45EB-AEE7-EA864FA1ADE3</key>
 		<dict>

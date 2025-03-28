@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "c3bc22562bb45ffd6f049309b06f1d7af48568a3234e08185d53c5fb1c3f71ac"
+    }
+  ],
+  "containerPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/ChatWithAI.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Products",
+      "derivedDataPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/amanpreeetsandhu/Desktop/iOS Mobile Application Programming/ChatWithAI/DerivedData/ChatWithAI/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "790F11E9-A9FA-498D-8295-6E55C2FE549F",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

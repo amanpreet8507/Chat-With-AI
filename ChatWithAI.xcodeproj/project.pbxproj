@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6D3042D82D76BF9A00635062 /* GoogleGenerativeAI in Frameworks */ = {isa = PBXBuildFile; productRef = 6D3042D72D76BF9A00635062 /* GoogleGenerativeAI */; };
+		6DFF2C072D9620080083FE02 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6DFF2C062D9620080083FE02 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,11 +32,25 @@
 		6D3042A02D76B7BB00635062 /* ChatWithAI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ChatWithAI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D3042B02D76B7BC00635062 /* ChatWithAITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatWithAITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D3042BA2D76B7BC00635062 /* ChatWithAIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChatWithAIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6DFF2C062D9620080083FE02 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		6DFF2C032D961E440083FE02 /* Exceptions for "ChatWithAI" folder in "ChatWithAI" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 6D30429F2D76B7BB00635062 /* ChatWithAI */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		6D3042A22D76B7BB00635062 /* ChatWithAI */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				6DFF2C032D961E440083FE02 /* Exceptions for "ChatWithAI" folder in "ChatWithAI" target */,
+			);
 			path = ChatWithAI;
 			sourceTree = "<group>";
 		};
@@ -73,6 +88,7 @@
 				6D3042A22D76B7BB00635062 /* ChatWithAI */,
 				6D3042D62D76BF9A00635062 /* Frameworks */,
 				6D3042A12D76B7BB00635062 /* Products */,
+				6DFF2C062D9620080083FE02 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -211,6 +227,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6DFF2C072D9620080083FE02 /* .gitignore in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
